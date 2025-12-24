@@ -1,5 +1,5 @@
-# SchoolStuff
-### Note that this project isn't finished and most likely never will since schools are annoying and for some reason hate privacy and no I don't just mean them looking at browser histroy they even envade chats with other people
+# SchoolStuff 
+### Note that this project isn't finished and most likely never will since schools are annoying and for some reason hate privacy and no I don't just mean them looking at browser histroy they even envade chats with other people also the repo has a number ID so you can fetch it just incase your school blocks github
 
 
 
